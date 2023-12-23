@@ -37,7 +37,7 @@ This code requires
 
 ## 4. Inference Using Pretrained Model
 
-运行 `test.py` 文件来测试模型并生成评估指标和混淆矩阵：
+Run the `test.py` file to test the model and generate evaluation metrics and confusion matrices:
 
 `python test.py`
 
@@ -45,7 +45,7 @@ This code requires
 
 ## 5 . Train Model
 
-运行 `train.py` 文件来训练模型：
+Run the `train.py` file to train the model:
 
 `python train.py`
 
